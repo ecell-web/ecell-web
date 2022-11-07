@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ecell-web/ecell-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there!
+This is E-Cell IIT-Bombay's github account , this contains multiple resources for users to learn about full stack development. This is a small step by web team 2022-23 to give you all a concise material from which you can easily learn about web development.
